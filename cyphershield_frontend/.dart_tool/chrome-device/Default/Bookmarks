@@ -1,0 +1,174 @@
+{
+   "checksum": "66c92d96cf9ca297684b88d6dd456b33",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13304596966463216",
+               "date_last_used": "0",
+               "guid": "74395db3-971e-4aff-ac51-55bfac997185",
+               "id": "12",
+               "name": "Acer",
+               "type": "url",
+               "url": "http://www.acer.com/"
+            } ],
+            "date_added": "13388236087307053",
+            "date_last_used": "0",
+            "date_modified": "13388236097824602",
+            "guid": "d67449eb-5849-421f-9631-9da15c5d7b1c",
+            "id": "11",
+            "name": "Acer",
+            "type": "folder"
+         }, {
+            "date_added": "13304884138284248",
+            "date_last_used": "0",
+            "guid": "e5d5cab4-9dd2-477a-83e7-cc40f8c96be6",
+            "id": "13",
+            "name": "Gmail",
+            "type": "url",
+            "url": "https://accounts.google.com/b/0/AddMailService"
+         }, {
+            "date_added": "13304884138285210",
+            "date_last_used": "13379876123525524",
+            "guid": "c1e0d483-861b-43c8-9636-ad1b454af8f2",
+            "id": "14",
+            "name": "YouTube",
+            "type": "url",
+            "url": "https://youtube.com/"
+         }, {
+            "date_added": "13304884138286343",
+            "date_last_used": "0",
+            "guid": "25e98187-52ab-4663-bc89-73807f57a297",
+            "id": "15",
+            "name": "Maps",
+            "type": "url",
+            "url": "https://maps.google.com/"
+         }, {
+            "date_added": "13309851539288913",
+            "date_last_used": "0",
+            "guid": "1800c045-a2a6-4503-abb7-972ec903b7f8",
+            "id": "16",
+            "name": "History",
+            "type": "url",
+            "url": "chrome://history/"
+         }, {
+            "date_added": "13335859875872058",
+            "date_last_used": "0",
+            "guid": "aebc3f1c-489c-42be-8a4e-173f1c85bb6d",
+            "id": "17",
+            "name": "New Tab",
+            "type": "url",
+            "url": "chrome://newtab/"
+         }, {
+            "children": [ {
+               "date_added": "13340605418577249",
+               "date_last_used": "0",
+               "guid": "7ce33220-23d8-4ba0-a4ed-f7883cb77e49",
+               "id": "19",
+               "name": "(67) 4AM in Karachi - Talha Anjum | Prod. Umair (Official Audio) - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=UcU-yRIZ5DE"
+            }, {
+               "date_added": "13340605418577348",
+               "date_last_used": "0",
+               "guid": "c01cde34-7daa-48e3-ad5b-c7ae57f2c7f2",
+               "id": "20",
+               "name": "(67) Snoop Snake - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/@SnoopSnake/featured"
+            }, {
+               "date_added": "13340605418577383",
+               "date_last_used": "0",
+               "guid": "250210f7-8c6d-4eb8-88e5-4e67ed6c78c2",
+               "id": "21",
+               "name": "WhatsApp",
+               "type": "url",
+               "url": "https://web.whatsapp.com/"
+            } ],
+            "date_added": "13377087961862987",
+            "date_last_used": "0",
+            "date_modified": "13377087961862987",
+            "guid": "55c089cc-e91d-4bd6-b397-8cf5a670f0b2",
+            "id": "18",
+            "name": " ][8W- ",
+            "type": "folder"
+         }, {
+            "date_added": "13348401163932150",
+            "date_last_used": "0",
+            "guid": "26505d86-160b-4378-a991-7f9896a12912",
+            "id": "22",
+            "name": "GDFlix | What.If.2021.S02E09.What.if.Strange.Supreme.Intervened.2160p.DSNP.WEB-DL.DDP5.1.Atmos.DV.HDR.H.265-FLUX.mkv",
+            "type": "url",
+            "url": "https://dart.gdflix.ink/zfile/o47SGbMwAR"
+         }, {
+            "date_added": "13354334987384881",
+            "date_last_used": "13388147924827476",
+            "guid": "e21262c0-750b-464d-900a-d31ec3379d37",
+            "id": "23",
+            "name": "ChatGPT",
+            "type": "url",
+            "url": "https://chat.openai.com/"
+         }, {
+            "date_added": "13371524092841636",
+            "date_last_used": "0",
+            "guid": "bb0db5d4-5fd7-48b1-a7da-89ecae51c1ba",
+            "id": "24",
+            "name": "Home | Microsoft 365",
+            "type": "url",
+            "url": "https://www.office.com/?auth=1"
+         }, {
+            "date_added": "13388236082760047",
+            "date_last_used": "0",
+            "guid": "ed566964-aec8-4215-9fed-bf6d2afb635d",
+            "id": "7",
+            "name": "Agoda",
+            "type": "url",
+            "url": "https://s3.amazonaws.com/amundsen/redirect/19q2/agoda.html?utm_source=win32&utm_medium=favorite"
+         }, {
+            "date_added": "13388236082759177",
+            "date_last_used": "0",
+            "guid": "28b1ce48-1208-4522-b9f3-2416fc0e34f0",
+            "id": "6",
+            "name": "Amazon",
+            "type": "url",
+            "url": "https://s3.amazonaws.com/amundsen/redirect/19q2/amazon.html?utm_source=win32&utm_medium=favorite"
+         } ],
+         "date_added": "13388236082344355",
+         "date_last_used": "0",
+         "date_modified": "13388236097820712",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13388236082344358",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [ {
+            "date_added": "13367328245828341",
+            "date_last_used": "0",
+            "guid": "54652bdf-d6d2-40f2-8610-135233717bad",
+            "id": "10",
+            "name": "iot-wiki.realme.com/search.html",
+            "type": "url",
+            "url": "https://iot-wiki.realme.com/search.html"
+         } ],
+         "date_added": "13388236082344361",
+         "date_last_used": "0",
+         "date_modified": "13367328245828341",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
