@@ -40,8 +40,8 @@ app.get('/settle-up', (req, res) => {
     const share = amount / sharedAmong.length;
     sharedAmong.forEach(name => {
       if (name !== paidBy) {
-        balance[name] = (balance[name] || 0) - share;
-        balance[paidBy] = (balance[paidBy] || 0) + share;
+        balance[name]=(balance[name] || 0)-share;
+        balance[paidBy] = (balance[paidBy] || 0)+share;
       }
     });
   });
